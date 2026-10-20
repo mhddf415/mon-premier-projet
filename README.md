@@ -1,2 +1,4 @@
 # mon-premier-projet
-Mon premier projet Github
+Bonjour ! Je découvre Github.
+Mon objectif est d'apprendre à programmer.
+Ceci est mon premier projet.
